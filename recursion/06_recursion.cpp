@@ -11,8 +11,10 @@ int fun(int n){
     }
 }
 int main(){
-    int num = 134;
+    int num = 134 ;
     cout<<fun(num);
     return 0;
 
 }
+//Time Complexity: O(1)
+//Space Complexity: O(1)
